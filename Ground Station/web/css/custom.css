@@ -1,0 +1,9 @@
+.graph-container {
+  height: 100%;
+  overflow: auto; 
+  background-color: #343a40;
+  border-radius: 0.25rem;
+}
+.nav-button {
+  margin: 5px;
+}
